@@ -1,0 +1,1 @@
+ L2 está contido em L3, porém o contrário não sendo verdade, não possuindo nenhuma palavra aceita formada pelo vocabulário disposto3 e L3 possui todas as palavras aceitas inclusive possíveis inclusive a ausência destas.
