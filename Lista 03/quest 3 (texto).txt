@@ -1,0 +1,4 @@
+Para algum par (estado, símbolo) pode haver transições para dois ou mais estados;
+Um número é reconhecido se e somente se, existir uma computação que o consome e termina em um estado final;
+Em todo ponto de indecisão, a máquina deduz qual escolha (se houver alguma) leva a uma computação que resulta em sucesso no reconhecimento;
+Concluindo com essas informações, vejamos que é um AFN.
